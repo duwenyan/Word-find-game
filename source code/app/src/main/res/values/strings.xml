@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">A Simple Word Game</string>
+    <string name="Team123">Word Game</string>
+    <drawable name="color1">#339966</drawable>
+    <drawable name="color2">#d3d3d3</drawable>
+    <string name="simple_dialog">Warning</string>
+    <string name="dialog_message">Game Time is end !</string>
+    <string name="postive_button">Main Menu</string>
+    <string name="negative_button">Restart</string>
+    <string name="statistics_button">Statistics</string>
+    <string name="toast_postive">You pressed OK</string>
+    <string name="toast_negative">You pressed Cancle</string>
+
+</resources>
